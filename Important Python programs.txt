@@ -1,0 +1,45 @@
+Here's a list of **20 commonly asked Python programs** that show up frequently in interviews, especially for entry-level and intermediate roles. These programs test understanding of **logic, data structures, algorithms**, and **Python-specific features**:
+
+---
+
+### 🔁 **Basic Logic Programs**
+1. **Check if a number is prime.**  
+2. **Find factorial of a number (recursive & iterative).**  
+3. **Check if a string is a palindrome.**  
+4. **Generate Fibonacci series (recursive & iterative).**  
+5. **Check if a number is Armstrong.**  
+6. **Reverse a number or string.**  
+
+---
+
+### 🔤 **String Manipulation**
+7. **Count vowels and consonants in a string.**  
+8. **Find duplicate characters in a string.**  
+9. **Check if two strings are anagrams.**  
+10. **Remove all non-alphabetic characters from a string.**  
+11. **Capitalize the first letter of each word in a sentence (title case).**  
+
+---
+
+### 🔢 **Number & Math Operations**
+12. **Find GCD and LCM of two numbers.**  
+13. **Check if a number is a palindrome (numeric palindrome).**  
+14. **Sum of digits in a number.**  
+15. **Swap two numbers without using a third variable.**  
+
+---
+
+### 🔁 **Loops & Lists**
+16. **Print all prime numbers in a range.**  
+17. **Find the largest/smallest number in a list.**  
+18. **Sort a list without using built-in functions (e.g., bubble sort).**  
+19. **Remove duplicates from a list.**  
+20. **Find the second largest number in a list.**
+
+---
+
+Want any of these coded out or explained in detail? Or maybe you'd like a cheat sheet or notebook version?
+
+
+amazon interview questions this year data analyst
+give link of  Hr wjo post interview questions on  linkedin
